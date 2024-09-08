@@ -11,7 +11,7 @@ Looking for a fast and efficient way to check Discord promo codes? Look no furth
 - 🛠️ **Automatic module and file checking** — ensures all required dependencies and files are set up before you begin.
 
 ## Getting Started 🚀
-1. Clone the repo: `git clone https://github.com/your-repo/discord-promo-checker.git`
+1. Clone the repo: `git clone https://github.com/y039f/promo-checker.git`
 2. Install required modules: The script will prompt you to install any missing dependencies. Just say yes! 🟢
 3. Run the script and enter the number of threads and your preferred proxy type: **proxyless/http/socks4/socks5**.
 4. Sit back and watch the magic happen! 🧙‍♂️✨
