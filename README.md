@@ -21,6 +21,6 @@ Looking for a fast and efficient way to check Discord promo codes? Look no furth
 - `promos.txt` — list of promo codes to check
 - `proxies.txt` — list of proxies (if using proxy mode)
 
-Join us on [Discord](https://discord.gg/sDBr6fa3Rb) or follow our updates on [Telegram](https://t.me/pasjonatyk) for more tips and support!
+Join us on [Discord](https://discord.gg/sDBr6fa3Rb) or follow our updates on [Telegram](https://t.me/kurwyroksa) for more tips and support!
 
 Happy checking! 🎁
