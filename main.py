@@ -282,8 +282,7 @@ _________ .__                   __
 
         centered_ascii = Center.XCenter(ascii_art)
         info = """
-         discord.gg/sDBr6fa3Rb 
-         telegram: @pasjonatyk
+         telegram: @deadptr
 
         """
         gradient_ascii = Colorate.Horizontal(Colors.white_to_black, centered_ascii)
